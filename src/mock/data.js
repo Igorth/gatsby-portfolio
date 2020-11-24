@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'I`m a Web Developer, passionate about technology and solving problems always aiming to learn new things.',
+  paragraphTwo: 'Motivated and committed professional, with strong attention to detail, and good communication skills. I believe in collaborative working between designers and other parts of the company. Expect from me to always learn more about React and UX / UI design while creating and to always push boundaries to deliver better products.',
+  paragraphThree: 'Able to drive web application roadmap forward, with focus on efficiently delivering software that users will rave about, as well as able to collaborate on all aspects of software development.',
   resume: 'https://drive.google.com/file/d/1ClgHG8TijP7GOGKwkf6LSwQpFqah3UbD/view', // if no resume, the button will not show up
 };
 
