@@ -28,30 +28,39 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project1.png',
+    title: 'Be The Hero',
+    info: 'First big project using the Node.js, React and React Native stack. The front end was built using React.',
+    info2: 'The purpose of the application is to be able to register incidents with animals and the user can check where it occurred and if it can help in any way.',
+    url: 'https://github.com/Igorth/front-end-be-the-hero',
+    repo: 'https://github.com/Igorth/front-end-be-the-hero', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project2.png',
+    title: 'GitHub API',
+    info: 'One of the first projects using react, typescript and styled components.',
+    info2: 'The goal is to search for any repository on github using your api.',
+    url: 'https://github.com/Igorth/github-explorer',
+    repo: 'https://github.com/Igorth/github-explorer', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'project3.png',
+    title: 'Sass',
+    info: 'Learning to use Sass to create a responsive website using the concept of Sass and Scss.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://codepen.io/igordiasth/pen/YzGzrav',
+    repo: 'https://codepen.io/igordiasth/pen/YzGzrav', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project4.png',
+    title: 'Flexbox',
+    info: 'Using Flexbox properties to create a website that looks almost like Twitter. The main objective was to use the knowledge of flexbox.',
+    info2: '',
+    url: 'https://codepen.io/igordiasth/pen/QWKbmaj',
+    repo: 'https://codepen.io/igordiasth/pen/QWKbmaj', // if no repo, the button will not show up
   },
 ];
 
